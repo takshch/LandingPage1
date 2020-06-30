@@ -1,0 +1,15 @@
+.Services{
+    color: #252E56;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background:linear-gradient(#fff  50%, #4059D6 50%);
+    height: 50vh;
+}
+.Services .heading-text{
+    margin-top: 5px !important;
+    font-size: 400;
+}
+.Services .heading{
+    font-size: 500;
+}
